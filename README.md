@@ -16,3 +16,5 @@ Cardless access in office without any swiping and updating the timesheet accordi
 # Keras_Tensorboard_CNN (1).ipynb
 
 This notebook will show how to access the Tensoboard with the Keras Summaries with a example of CIFAR dataset.
+
+Notebook will be updated by 14-02-2021
